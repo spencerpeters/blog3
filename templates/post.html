@@ -20,7 +20,10 @@
                     var disqus_config = function () {
                     this.page.url = 'https://spencerpeters.github.io/blog3$url$';
 
-                    this.page.identifier = '$path$';
+                    var sourcePath = '$path$';
+                    var separatedSourcePath = sourcePath.split("/");
+                    var articleSlug = separatedSourcePath[separatedSourcePath.length - 1];
+                    this.page.identifier = articleSlug;
 
                     };
 

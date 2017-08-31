@@ -51,7 +51,10 @@
                     var disqus_config = function () {
                     this.page.url = 'https://spencerpeters.github.io/blog3/posts/2015-12-07-tu-quoque.html';
 
-                    this.page.identifier = 'posts/2015-12-07-tu-quoque.markdown';
+                    var sourcePath = 'posts/2015-12-07-tu-quoque.markdown';
+                    var separatedSourcePath = sourcePath.split("/");
+                    var articleSlug = separatedSourcePath[separatedSourcePath.length - 1];
+                    this.page.identifier = articleSlug;
 
                     };
 

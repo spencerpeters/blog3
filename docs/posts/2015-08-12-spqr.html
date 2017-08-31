@@ -90,7 +90,10 @@ for i in range</code></pre>
                     var disqus_config = function () {
                     this.page.url = 'https://spencerpeters.github.io/blog3/posts/2015-08-12-spqr.html';
 
-                    this.page.identifier = 'posts/2015-08-12-spqr.markdown';
+                    var sourcePath = 'posts/2015-08-12-spqr.markdown';
+                    var separatedSourcePath = sourcePath.split("/");
+                    var articleSlug = separatedSourcePath[separatedSourcePath.length - 1];
+                    this.page.identifier = articleSlug;
 
                     };
 

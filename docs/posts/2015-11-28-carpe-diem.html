@@ -49,7 +49,10 @@
                     var disqus_config = function () {
                     this.page.url = 'https://spencerpeters.github.io/blog3/posts/2015-11-28-carpe-diem.html';
 
-                    this.page.identifier = 'posts/2015-11-28-carpe-diem.markdown';
+                    var sourcePath = 'posts/2015-11-28-carpe-diem.markdown';
+                    var separatedSourcePath = sourcePath.split("/");
+                    var articleSlug = separatedSourcePath[separatedSourcePath.length - 1];
+                    this.page.identifier = articleSlug;
 
                     };
 
