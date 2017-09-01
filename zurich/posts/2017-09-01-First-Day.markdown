@@ -1,0 +1,50 @@
+---
+title: First Day
+author: Spencer
+---
+
+I stayed up too long getting this blog functional to write a decent
+post :P Even though this day was awesome and packed. Allow me, therefore,
+to analyze the day from several, mutually decoherent angles within a standard temporal narrative...
+
+# Arrival
+
+I got off the plane, running a moderate sleep deficit, a dry cough, and a raging thrill of joy and abandon. Grabbed a delicious pastry from one of the shops at the airport (a shocker: small food items, including coffee, are much cheaper even at airport stores here than they are stateside).
+
+![Delicious pastry](../images/IMG_20170901_163237.jpg)
+
+It was really good. Proceeded to the S-Bahn station and bought a ticket; I think I bought the right one but I don't know because it wasn't checked! Hopped the train to Niederrad station and headed to my hotel, after screenshotting Google Maps. NewsFlash:
+
+1. screenshotted Google Maps are really not very useful
+2. Google Maps caches your directions anyway
+
+After realizing this, the journey got easier. I finally navigated my way down a long alley and to the Premiere Classe hotel, which is the loveliest establishment. My room looks out on stately gardens:
+
+![Stately gardens](../images/IMG_20170901_180807.jpg)
+
+# Night Out
+
+I dropped off my stuff, plugged in my lappy with my German adapter, took a shower, and prepared to hit the town! Armed with a laminated sheet of phrases, I retraced my steps to Niederrad, found myself on the wrong platform, ran up and down some stairs, found myself going the right way on the wrong train. Disembarked at the main station, or Hauptbahnhof, which is enormous and stunned me with beautiful wrought-iron architecture:
+
+![Frankfurt Main Hauptbahnhof](../images/IMG_20170901_194240.jpg)
+
+Found my way through the crowded chaos of the station, avoiding jostling folks Assassin's Creed style, to the S-Bahn platforms underground. Continued merrily to Frankfurt, hopped out at the Hauptwache station in downtown Frankfurt. Here was a busy square, with some sort of protest going on (can you see the sign?):
+
+![Grab him by the...](../images/IMG_20170901_195149.jpg)
+
+I wandered around excitedly for a little while. Lots of posh stores, *tons* of bars and wine shops with outdoor tables and fashionable, high-status customers. Very different from the bars I saw in Seattle or Austin.
+
+Finally, I got hungry and tried to find the restaurant I'd identified on Yelp back in the hotel. I wandered around excitedly for a bit longer. But I couldn't find it! And the darn thing wasn't registered in the offline Google Maps I'd grabbed. I pirated Starbucks wifi and finally found the place.
+
+# Football Match
+
+I walked in, stood speechless for a second deciding whether to sit down or wait to be seated, until the bar-lady looked at me impatiently; I gestured at a table, and she "Ya"'d and nodded enthusiastically/impatiently. I sat down, she grabbed me an English menu :P and I ordered a pilsner and Wienerschnitzel. They were amazing:
+
+![pilsner](../images/IMG_20170901_203828.jpg)
+![wienerschnitzel](../images/IMG_20170901_205133.jpg)
+
+There were also a couple of guys gambling with dice, using a special gambling clipboard with a calculator attached. I've noticed lots of gambling-related things, to my surprise! There was a slot machine den at the airport, lots of ads about lotteries or casinos, and now these fellows.
+
+Then, a soccer match between Germany and the Czech Rep. came on. When the Germans scored in the 3rd minute, everyone in the bar went wild. The gambling ceased, the conversations paused, all attention was on the game. I was impressed at the attentiveness and camaraderie the game engendered. Walked out at a hard fought 0-1 30 minutes in after putting down cash to cover the meal.
+
+Returned to the hotel without incident! Worked on the Haskell blog you're reading this on, wrote this post and the image gallery, and hopefully, am gonna crash real hard to catch the free breakfast before my 8am train tomorrow. Prost, y'all!

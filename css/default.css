@@ -110,6 +110,6 @@ section.blogpostbody {
 }
 
 img {
-    max-width: 5in;
-    height: auto;
+    max-height: 3in;
+    width: auto;
 }
