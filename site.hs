@@ -28,7 +28,14 @@ main = hakyllWith config $ do
             >>= relativizeUrls
 
 
-    match (fromList ["posts/*", "zurich/posts/*"]) $ do
+    match "posts/*" $ do
+        route $ setExtension "html"
+        compile $ pandocCompilerWith myReaderOptions myWriterOptions
+            >>= loadAndApplyTemplate "templates/post.html"    postCtx
+            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= relativizeUrls
+
+    match "zurich/posts/*" $ do
         route $ setExtension "html"
         compile $ pandocCompilerWith myReaderOptions myWriterOptions
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
