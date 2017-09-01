@@ -35,6 +35,7 @@ main = hakyllWith config $ do
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
 
+    -- zurich
     match "zurich/posts/*" $ do
         route $ setExtension "html"
         compile $ pandocCompilerWith myReaderOptions myWriterOptions
@@ -56,6 +57,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
 
+    -- zurich
     create ["zurich/archive.html"] $ do
         route idRoute
         compile $ do
@@ -84,6 +86,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
 
+    -- zurich
     match "zurich/index.html" $ do
         route idRoute
         compile $ do
@@ -103,6 +106,7 @@ main = hakyllWith config $ do
         route idRoute
         compile templateBodyCompiler
 
+    -- zurich
     match "zurich/templates/*" $ do
         route idRoute
         compile templateBodyCompiler
