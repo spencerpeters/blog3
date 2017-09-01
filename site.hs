@@ -92,10 +92,13 @@ main = hakyllWith config $ do
                 >>= relativizeUrls
 
 
+    match "templates/*" $ do
+        route idRoute
+        compile templateBodyCompiler
 
-    match "templates/*" $ compile templateBodyCompiler
-
-    match "zurich/templates/*" $ compile templateBodyCompiler
+    match "zurich/templates/*" $ do
+        route idRoute
+        compile templateBodyCompiler
 
 
 --------------------------------------------------------------------------------
