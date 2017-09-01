@@ -88,19 +88,16 @@ footer a {
 }
 
 h1 {
-    text-align: center;
     font-family: 'Carter One', serif;
     font-size: 24px;
 }
 
 h2 {
-    text-align: center;
     font-family: 'Carter One', serif;
     font-size: 20px;
 }
 
 p {
-    text-align: center;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -112,8 +109,4 @@ section.header {
 
 section.blogpostbody {
     max-width: 5in;
-}
-
-main {
-    text-align: center;
 }
