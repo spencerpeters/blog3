@@ -108,3 +108,8 @@ section.header {
 section.blogpostbody {
     max-width: 5in;
 }
+
+img {
+    max-width: 5in;
+    height: auto;
+}
