@@ -100,3 +100,7 @@ section.header {
     font-size: 14px;
     font-style: italic;
 }
+
+section.blogpostbody {
+    padding: 20% 0 0 20%
+}
