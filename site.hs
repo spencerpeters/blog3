@@ -28,7 +28,7 @@ main = hakyllWith config $ do
             >>= relativizeUrls
 
 
-    match "posts/*" $ do
+    match (fromList ["posts/*", "zurich/posts/*"]) $ do
         route $ setExtension "html"
         compile $ pandocCompilerWith myReaderOptions myWriterOptions
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
@@ -49,6 +49,19 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
 
+    create ["zurich/archive.html"] $ do
+        route idRoute
+        compile $ do
+            zurichPosts <- recentFirst =<< loadAll "zurich/posts/*"
+            let archiveCtx =
+                    listField "zurichposts" postCtx (return zurichPosts) `mappend`
+                    constField "title" "Archives"            `mappend`
+                    defaultContext
+
+            makeItem ""
+                >>= loadAndApplyTemplate "zurich/templates/archive.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= relativizeUrls
 
     match "index.html" $ do
         route idRoute
@@ -63,6 +76,22 @@ main = hakyllWith config $ do
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
+
+    match "zurich/index.html" $ do
+        route idRoute
+        compile $ do
+            zurichPosts <- recentFirst =<< loadAll "zurich/posts/*"
+            let indexCtx =
+                    listField "zurichposts" postCtx (return zurichPosts) `mappend`
+                    constField "title" "Home"                `mappend`
+                    defaultContext
+
+            getResourceBody
+                >>= applyAsTemplate indexCtx
+                >>= loadAndApplyTemplate "templates/default.html" indexCtx
+                >>= relativizeUrls
+
+
 
     match "templates/*" $ compile templateBodyCompiler
 
