@@ -37,7 +37,6 @@ header {
 
 div.logo {
     width:100%;
-    text-align: center;
 }
 
 div.logo a {
@@ -51,7 +50,6 @@ div.logo a {
 
 header nav {
     margin-top: 20px;
-    text-align: center;
 }
 
 header nav a {
