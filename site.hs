@@ -95,6 +95,8 @@ main = hakyllWith config $ do
 
     match "templates/*" $ compile templateBodyCompiler
 
+    match "zurich/templates/*" $ compile templateBodyCompiler
+
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
