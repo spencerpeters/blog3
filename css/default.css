@@ -23,7 +23,7 @@ body {
 }
 
 a{
-    color: #0f31a0
+    color: #0f31a0;
     text-decoration: none;
 }
 
@@ -93,6 +93,10 @@ h1 {
 
 h2 {
     font-size: 20px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
 }
 
 section.header {
