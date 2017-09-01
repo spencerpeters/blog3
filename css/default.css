@@ -102,5 +102,5 @@ section.header {
 }
 
 section.blogpostbody {
-    padding: 20% 0 0 20%
+    max-width: 5in;
 }
