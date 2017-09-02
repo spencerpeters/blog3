@@ -49,4 +49,4 @@ After the dinner, brought my computer and my book down to the common space. Simo
 
 Grabbed a proffered glass of wine and walked out while they smoked cigarettes. I had to stay well away to avoid aggravating my lingering cough, but it was a beautiful night.
 
-Everyone hit the hay and I wrote this log! Ready to sleep after 20 hours of Leeeeeeeeeroy :D 
+Everyone hit the hay and I wrote this log! Ready to sleep after 20 hours of Leeeeeeeeeroy :D

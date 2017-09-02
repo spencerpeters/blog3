@@ -31,3 +31,13 @@ Found this place on Yelp, lost it while I was touring around downtown Frankfurt
 
 ## This bathroom meter ate my 20 euro-cents and opened the women's (frei) bathroom!!
 ![](images/IMG_20170901_212412.jpg)
+
+## Day 2
+![kitchen](images/kitchen.jpg)  
+![rad stairs](images/rad%20stairs.jpg)  
+![train station](images/train%20station.jpg)  
+[two-eggs-fewer-what-did-the-price-go-up?!.jpg](images/two-eggs-fewer-what-did-the-price-go-up%3F%21.jpg)  
+![war-what is it good for](images/war-what%20is%20it%20good%20for.jpg)  
+![wiings](images/wiings.jpg)  
+![zurich from above 1](images/zurich%20from%20above%201.jpg)  
+![zurich from above 2](images/zurich%20from%20above%202.jpg)
