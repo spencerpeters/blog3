@@ -54,8 +54,8 @@ Found this place on Yelp, lost it while I was touring around downtown Frankfurt
 
 ## Day 4
 ![building](images/building.jpg)
-![buildings1](images/buildings1.jpg)  
-![buildings2](images/buildings2.jpg)  
+![buildings1](images/building1.jpg)  
+![buildings2](images/building2.jpg)  
 ![cafe1](images/cafe1.jpg)  
 ![cafe2](images/cafe2.jpg)  
 ![cute gas station](images/cute%20gas%20station.jpg)
