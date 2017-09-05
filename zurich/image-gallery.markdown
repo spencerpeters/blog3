@@ -49,7 +49,9 @@ Found this place on Yelp, lost it while I was touring around downtown Frankfurt
 ![thar's a feather in my egg](images/thar%27s%20a%20feather%20in%20my%20egg.jpg)
 ![another building](images/another%20building.jpg)  
 ![bread is a good time](images/bread%20is%20a%20good%20time.jpg)  
-![budget](images/budget.jpg)
+![budget](images/budget.jpg)  
+![wiings](images/wiings.jpg)  
+![rad stairs](images/rad%20stairs.jpg)
 
 
 ## Day 4
