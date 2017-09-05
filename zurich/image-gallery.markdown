@@ -42,26 +42,10 @@ Found this place on Yelp, lost it while I was touring around downtown Frankfurt
 ![zurich from above 1](images/zurich%20from%20above%201.jpg)  
 ![zurich from above 2](images/zurich%20from%20above%202.jpg)
 ![room balcony](images/room%20balcony.jpg)  
-![room door](images/room%20door.jpg)
-
-## Day 3
+![room door](images/room%20door.jpg)  
 ![sunrise at culmann](images/sunrise%20at%20culmann.jpg)  
 ![thar's a feather in my egg](images/thar%27s%20a%20feather%20in%20my%20egg.jpg)
 ![another building](images/another%20building.jpg)  
 ![bread is a good time](images/bread%20is%20a%20good%20time.jpg)  
 ![budget](images/budget.jpg)  
-![wiings](images/wiings.jpg)  
-![rad stairs](images/rad%20stairs.jpg)
-
-
-## Day 4
 ![building](images/building.jpg)
-![buildings1](images/buildings1.jpg)  
-![buildings2](images/buildings2.jpg)  
-![cafe1](images/cafe1.jpg)  
-![cafe2](images/cafe2.jpg)  
-![cute gas station](images/cute%20gas%20station.jpg)
-![limmat1](images/limmat1.jpg)  
-![limmat2](images/limmat2.jpg)  
-![limmat3](images/limmat3.jpg)
-![selfie](images/selfie.jpg)
