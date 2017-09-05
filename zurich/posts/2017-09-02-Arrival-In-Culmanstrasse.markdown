@@ -24,7 +24,7 @@ Simon proceeded to deliver an in-depth tour, discussing house rules and regulati
 
 After that, I wandered down to the common room to snag some wifi. Hanging out in the common room was a cheery girl named Juyoung, from the States but her folks speak Korean at home. We chatted for a while; the conversation snowballed as more Culmannstrassers arrived and joined our table. Once the force of hunger overcame the nascent social glue, Juyoung and I raided the nearest grocery store. We negotiated a Nutella-jam split, and I acquired all the necessities. But hoooooly..
 
-[two-eggs-fewer-what-did-the-price-go-up?!.jpg](../images/two-eggs-fewer-what-did-the-price-go-up%3F%21.jpg)
+![two-eggs-fewer-what-did-the-price-go-up?!.jpg](../images/two-eggs-fewer-what-did-the-price-go-up.jpg)
 
 When I saw this, my soul sank in despair. 4 francs for a pack of eggs--and to add insult to injury, it's a metric dozen--two eggs missing! @insiders Reminded me of the famous Bone line "Two eggs! What, did the price go up?!"
 
