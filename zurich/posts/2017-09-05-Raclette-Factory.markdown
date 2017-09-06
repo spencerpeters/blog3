@@ -4,6 +4,7 @@ author: Spencer
 ---
 
 Sleep finally goes as normal! Delicious banana oatmeal, chat with Janna and Juyoung.
+
 ![oatmeal](../images/oatmeal.jpg)
 
 In German class we learn how to pronounce all the vowels, which is subtle. We learn more vocabulary.
