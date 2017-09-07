@@ -24,11 +24,13 @@ It's delicious! Good conversation with Christel and Navi about EU politics and B
 Got home after lessons, started chatting with Gaya and Trevor and got all energized, so instead of taking a nap as planned, I decided to head to a secondhand store mentioned in class for fun, and maybe to get a laundry basket or wall hanging. Right outside Culmann I met Janna and Juyoung coming back. Juyoung wanted to come. We set out down the stairs, across the river, and around the main HB, down some very pretty roads:
 
 ![river](../images/river.jpg)
+
 ![street](../images/street.jpg)
 
 And finally to the secondhand store, the Brockenhaus, which turned out to be nearly all furniture, and pretty expensive furniture at that (although they had a legit record collection). After that, we went to some outlet clothing stores in the area. They were.., well, um,
 
-![expensive_coat](../images/expensive_coat.jpg)  
+![expensive_coat](../images/expensive_coat.jpg)
+
 ![expensive_coat_tag](../images/expensive_coat_tag.jpg)
 
 **:                  D** jaw-dropping, eh? This was an *outlet* store. And there was another store like it, equally non-outlet.

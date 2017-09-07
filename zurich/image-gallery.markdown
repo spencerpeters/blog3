@@ -27,55 +27,88 @@ Found this place on Yelp, lost it while I was touring around downtown Frankfurt
  Everyone was freaking out about a soccer game, Germany vs. the Czech Rep.
 
 ![](images/IMG_20170901_203828.jpg)
+
 ![](images/IMG_20170901_205133.jpg)
 
 ## This bathroom meter ate my 20 euro-cents and opened the women's (frei) bathroom!!
 ![](images/IMG_20170901_212412.jpg)
 
 ## Day 2
-![kitchen](images/kitchen.jpg)  
-![rad stairs](images/rad%20stairs.jpg)  
-![train station](images/train%20station.jpg)  
-![two-eggs-fewer-what-did-the-price-go-up](images/two-eggs-fewer-what-did-the-price-go-up.jpg)  
-![war-what is it good for](images/war-what%20is%20it%20good%20for.jpg)  
-![wiings](images/wiings.jpg)  
-![zurich from above 1](images/zurich%20from%20above%201.jpg)  
+![kitchen](images/kitchen.jpg)
+
+![rad stairs](images/rad%20stairs.jpg)
+
+![train station](images/train%20station.jpg)
+
+![two-eggs-fewer-what-did-the-price-go-up](images/two-eggs-fewer-what-did-the-price-go-up.jpg)
+
+![war-what is it good for](images/war-what%20is%20it%20good%20for.jpg)
+
+![wiings](images/wiings.jpg)
+
+![zurich from above 1](images/zurich%20from%20above%201.jpg)
+
 ![zurich from above 2](images/zurich%20from%20above%202.jpg)
-![room balcony](images/room%20balcony.jpg)  
+
+![room balcony](images/room%20balcony.jpg)
+
 ![room door](images/room%20door.jpg)
 
+
 ## Day 3
-![sunrise at culmann](images/sunrise%20at%20culmann.jpg)  
+![sunrise at culmann](images/sunrise%20at%20culmann.jpg)
+
 ![thar's a feather in my egg](images/thar%27s%20a%20feather%20in%20my%20egg.jpg)
-![another building](images/another%20building.jpg)  
-![bread is a good time](images/bread%20is%20a%20good%20time.jpg)  
+
+![another building](images/another%20building.jpg)
+
+![bread is a good time](images/bread%20is%20a%20good%20time.jpg)
+
 ![budget](images/budget.jpg)
 
 
 ## Day 4
 ![building](images/building.jpg)
-![buildings1](images/building1.jpg)  
-![buildings2](images/building2.jpg)  
-![cafe1](images/cafe1.jpg)  
-![cafe2](images/cafe2.jpg)  
+
+![buildings1](images/building1.jpg)
+
+![buildings2](images/building2.jpg)
+
+![cafe1](images/cafe1.jpg)
+
+![cafe2](images/cafe2.jpg)
+
 ![cute gas station](images/cute%20gas%20station.jpg)
-![limmat1](images/limmat1.jpg)  
-![limmat2](images/limmat2.jpg)  
+
+![limmat1](images/limmat1.jpg)
+
+![limmat2](images/limmat2.jpg)
+
 ![limmat3](images/limmat3.jpg)
+
 ![selfie](images/selfie.jpg)
 
 ## Day 5
-![mmm_pasta](images/mmm_pasta.jpg)  
-![modern chapel](images/modern%20chapel.jpg)  
+![mmm_pasta](images/mmm_pasta.jpg)
+
+![modern chapel](images/modern%20chapel.jpg)
+
 ![nightspire](images/nightspire.jpg)
+
 ![castle_apartment](images/castle_apartment.jpg)
 
 ## Day 6
 
-![expensive_coat](images/expensive_coat.jpg)  
-![expensive_coat_tag](images/expensive_coat_tag.jpg)  
+![expensive_coat](images/expensive_coat.jpg)
+
+![expensive_coat_tag](images/expensive_coat_tag.jpg)
+
 ![first_fig_selfie](images/first_fig_selfie.jpg)
+
 ![bratwurst](images/bratwurst.jpg)
+
 ![pancetta](images/pancetta.jpg)
+
 ![river](images/river.jpg)
+
 ![street](images/street.jpg)
