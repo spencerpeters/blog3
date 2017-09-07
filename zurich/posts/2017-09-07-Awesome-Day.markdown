@@ -41,6 +41,10 @@ But then we found the oasis in the desert. Our teacher had told us about a cheap
 
 Walked back with Juyoung talking about Korean family names. At Culmann, fried some pancetta with onion and ate it on the delicious bread with cheese and beer. :D :D :D
 
+Also, I bought Juyoung a fig! She'd never had one before.
+
+![first_fig_selfie](../images/first_fig_selfie.jpg)
+
 ## Tripping on a Whim
 
 Found out while eating dinner that Daniel and Suraj and other bros had just booked passage to Munich for Oktoberfest. Daniel invited me excitedly, and I quickly became convinced--they booked with a company offering a cheap camp-out setup outside Munich, 30 minutes by all-night tram. I went with it and booked the bus to Munich and the campsite setup, a total of around 200.-. Now I've spent 500.- in the past two days, with the Halbtax and Gleis 7 :P Crazy! Oktoberfest will be awesome though--we're going next weekend!
