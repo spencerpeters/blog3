@@ -69,3 +69,13 @@ Found this place on Yelp, lost it while I was touring around downtown Frankfurt
 ![modern chapel](images/modern%20chapel.jpg)  
 ![nightspire](images/nightspire.jpg)
 ![castle_apartment](images/castle_apartment.jpg)
+
+## Day 6
+
+![expensive_coat](images/expensive_coat.jpg)  
+![expensive_coat_tag](images/expensive_coat_tag.jpg)  
+![first_fig_selfie](images/first_fig_selfie.jpg)
+![bratwurst](images/bratwurst.jpg)
+![pancetta](images/pancetta.jpg)
+![river](images/river.jpg)
+![street](images/street.jpg)
