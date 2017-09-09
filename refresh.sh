@@ -1,6 +1,6 @@
 #!/bin/bash
 
-stack exec site rebuild
+stack exec site build
 git add .
 git commit -am "refreshed site from script"
 git push
