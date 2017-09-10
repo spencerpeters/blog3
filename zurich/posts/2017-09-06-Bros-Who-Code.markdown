@@ -41,7 +41,8 @@ With growing frustration, I encounter loads of forum posts documenting the same 
 Finally, I write this log and try to get some sleep before lessons tomorrow! Night y'all!
 
 P.S. If you want to contact me, and you'd prefer not to use Facebook Messenger, get a WhatsApp. *Then change the last digit of the following number to an 8* and punch it in! That should find me!
-> 41-7797-29-359
+
+> +41 77 972 93 59
 
 
 
