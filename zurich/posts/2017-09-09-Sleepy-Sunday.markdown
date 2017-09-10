@@ -17,7 +17,6 @@ Met Navi and Alex for lunch at an expensive (by US standards) but tasty Chinese 
 ![garden](../images/garden.jpg)
 
 I felt like wandering around on my own so I left Navi and Alex, who were planning to get their half-fare cards at the station, and kibitzed on an epic chess match!
-
 ![chess_match](../images/chess_match.jpg)
 
 These fellows were pros at playing on the big board and slid the pieces around with their feet. Both the players and kibitzers were like players and kibitzers everywhere :D The players were intense, brooding, and given to egotistical cackles and remarks on the one hand, and griping and swearing on the other. I heard a lot of the German word for s**t, which incidentally was about the third word I learned in German (from my grandma, who used it as a polite swear word in the States).
