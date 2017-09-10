@@ -10,20 +10,15 @@ Answered messages, went downstairs and read about Haskell. Saw Juyoung on her wa
 Met Navi and Alex for lunch at an expensive (by US standards) but tasty Chinese restaurant. After that, we walked around the Aldstadt (Old Town) which was beautiful.
 
 ![oldtown1](../images/oldtown1.jpg)
-
 ![oldtown2](../images/oldtown2.jpg)
-
 ![oldtown3](../images/oldtown3.jpg)
-
 ![oldtown5](../images/oldtown5.jpg)
-
 ![oldtown4](../images/oldtown4.jpg)
-
 ![garden](../images/garden.jpg)
 
 I felt like wandering around on my own so I left Navi and Alex, who were planning to get their half-fare cards at the station, and kibitzed on an epic chess match!
 
-![chess_match](../images/chess_match.jpg)
+![](../images/chess_match.jpg)
 
 These fellows were pros at playing on the big board and slid the pieces around with their feet. Both the players and kibitzers were like players and kibitzers everywhere :D The players were intense, brooding, and given to egotistical cackles and remarks on the one hand, and griping and swearing on the other. I heard a lot of the German word for s**t, which incidentally was about the third word I learned in German (from my grandma, who used it as a polite swear word in the States).
 
