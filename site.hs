@@ -151,9 +151,8 @@ postCtx =
 config :: Configuration
 config = defaultConfiguration
     {
-            destinationDirectory = "docs"
+        destinationDirectory = "docs"
     }
-
 
 myReaderOptions :: ReaderOptions
 myReaderOptions = defaultHakyllReaderOptions
