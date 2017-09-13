@@ -19,7 +19,6 @@ I carted my overflowing tray to a table, pulled out my book, and began to veg. A
 After the lunch break, we did a little more prep, then went and pwned the oral exam. We had to act out a scenario; we prepared for 3 and got the simplest one, which we performed with aplomb and a bit of humor, which I'd pushed for as a former voice acting student :) and which I think made our group bond a bit over making the scenario.
 
 ![](../images/prufung_team_2.jpg)
-
 ![](../images/prufung_team.jpg)
 
 Then back to Culmann, where I read more [Haskell](https://www.haskell.org/tutorial/monads.html). The examples of monad use were very engrossing and far from simple, so after reading the "Resource monad" thoroughly I tried to reconstruct it without looking at the sample code. I had to figure out some syntax stuff but it was fun!
