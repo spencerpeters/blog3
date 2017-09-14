@@ -25,7 +25,7 @@ Then back to Culmann, where I read more [Haskell](https://www.haskell.org/tutori
 
 After that, Daniel and Cody and I went out to order some pizza from the Domino's 5 minutes away. We went to pick it up:
 
-![pizza_team](../images/pizza_team.jpg)
+![](../images/pizza_team.jpg)
 
 And then ate it on the roof!!
 
