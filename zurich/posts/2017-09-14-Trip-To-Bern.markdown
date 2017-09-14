@@ -21,6 +21,8 @@ After lunch we got our exams back and our language certificates. I stayed in the
 
 ![](../images/train_field.jpg)
 
+## Bern!
+
 And off thence to Bern, the "capital" of Switzerland! The government building there was really cool:
 
 ![government_building](../images/government_building.jpg)  
@@ -67,7 +69,7 @@ And onto a platform overlooking the river:
 
 Then we went to the cathedral whose spire dominated the landscape. This cool artwork was all that survived the Protestant de-idolatrization:
 
-![heaven_and_hell](../images/heaven_and_hell.jpg)
+![](../images/heaven_and_hell.jpg)
 
 Walked back into town:
 
