@@ -8,18 +8,19 @@ import           Hakyll.Core.Configuration
 import           System.Process
 import           Text.Pandoc.Options
 import qualified Data.Map as M
+import           Control.Monad (liftM, (<=<))
 
 
 --------------------------------------------------------------------------------
 main :: IO ()
 main = hakyllWith config $ do
-    match "images/*" $ do
+    match ("images/*" .||. "zurich/images/*") $ do
         route   idRoute
         compile copyFileCompiler
 
-    match "zurich/images/*" $ do
-        route   idRoute
-        compile copyFileCompiler
+--     match "zurich/images/*" $ do
+--         route   idRoute
+--         compile copyFileCompiler
 
     match "css/*" $ do
         route   idRoute
@@ -32,20 +33,20 @@ main = hakyllWith config $ do
             >>= relativizeUrls
 
 
-    match "posts/*" $ do
+    match ("posts/*" .||. "zurich/posts/*") $ do
         route $ setExtension "html"
         compile $ pandocCompilerWith myReaderOptions myWriterOptions
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
             >>= loadAndApplyTemplate "templates/default.html" postCtx
             >>= relativizeUrls
 
-    -- zurich
-    match "zurich/posts/*" $ do
-        route $ setExtension "html"
-        compile $ pandocCompilerWith myReaderOptions myWriterOptions
-            >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
-            >>= relativizeUrls
+--     -- zurich
+--     match "zurich/posts/*" $ do
+--         route $ setExtension "html"
+--         compile $ pandocCompilerWith myReaderOptions myWriterOptions
+--             >>= loadAndApplyTemplate "templates/post.html"    postCtx
+--             >>= loadAndApplyTemplate "templates/default.html" postCtx
+--             >>= relativizeUrls
 
     create ["archive.html"] $ do
         route idRoute
@@ -76,10 +77,11 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
 
+
     match "index.html" $ do
         route idRoute
         compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
+            posts <- take5OfRecentFirst =<< loadAll "posts/*"
             let indexCtx =
                     listField "posts" postCtx (return posts) `mappend`
                     constField "title" "Home"                `mappend`
@@ -94,7 +96,7 @@ main = hakyllWith config $ do
     match "zurich/index.html" $ do
         route idRoute
         compile $ do
-            zurichPosts <- recentFirst =<< loadAll "zurich/posts/*"
+            zurichPosts <- take5OfRecentFirst =<< loadAll "zurich/posts/*"
             let indexCtx =
                     listField "zurichposts" postCtx (return zurichPosts) `mappend`
                     constField "title" "Home"                `mappend`
@@ -106,14 +108,14 @@ main = hakyllWith config $ do
                 >>= relativizeUrls
 
 
-    match "templates/*" $ do
+    match ("templates/*" .||. "zurich/templates/*") $ do
         route idRoute
         compile templateBodyCompiler
 
-    -- zurich
-    match "zurich/templates/*" $ do
-        route idRoute
-        compile templateBodyCompiler
+--     -- zurich
+--     match "zurich/templates/*" $ do
+--         route idRoute
+--         compile templateBodyCompiler
 
 
 --------------------------------------------------------------------------------
@@ -172,3 +174,5 @@ myWriterOptions = defaultHakyllWriterOptions {
 -- --     return $ if "mathjax" `M.member` metadata
 -- --              then "<script type=\"text/javascript\" src=\"http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
 -- --              else ""
+
+take5OfRecentFirst = (liftM (take 5)) .  recentFirst
