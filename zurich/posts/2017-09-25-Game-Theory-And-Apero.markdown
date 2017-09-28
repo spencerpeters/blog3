@@ -1,5 +1,5 @@
 ---
-title: Sunday in the Sun
+title: Game Theory and Apero
 author: Spencer
 ---
 
