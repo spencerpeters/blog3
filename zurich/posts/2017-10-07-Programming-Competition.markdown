@@ -5,7 +5,7 @@ author: Spencer
 
 Competed in an ICPC programming competition today! The saga starts out cold and stormy for our hero, when after the opening breakfast at 11, Eclipse fails to load on the lab computers. I boot up Emacs, refresh myself with the command-line java compiler and JVM invoker. Pain ensues as I can't remember basic Java syntax (the UW teaches nearly everything in Java btw). Everyone is getting their balloons tied to their desks for solving problems, and I still have none :/ I consider throwing in the towel and going to sob over some Nutella and cheap sliced bread.
 
-But after pain comes gain. I start wrecking problems. There's a scoreboard which tells you which problems everyone has solved, so like a shark seeking blood I hunt down the easiest problems. More pain ensues because an annoying easy problem requires you to read in a string that doesn't fit in memory, so it needs to be read bit by bit. But I can't read it with my simple Scanner object that consumes tokens. And this is a no-Stack-Overflow zone. So I pull up the cached docs on BufferedInputReader... 40 minutes later, the stupid problem is solved.
+But after pain comes gain. I start wrecking problems. There's a scoreboard which tells you which problems everyone has solved, so like a shark seeking blood I hunt down the easiest problems. More pain ensues because an annoying easy problem requires you to read in a string that doesn't fit in memory, so it needs to be read bit by bit. But I can't read it with my simple Scanner object that consumes tokens. And this is a no-Stack-Overflow zone. So I pull up the cached docs on `BufferedReader` and `InputStreamReader`, and, 40 minutes later, the stupid problem is solved.
 
 Then, the real gain. I realize that the problems have the form,
 
