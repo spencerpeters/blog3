@@ -5,7 +5,7 @@ author: Spencer
 
 Slept in late! Had nice breakfast, chatted with Daria who's a new bachelor's student.
 
-Off to Mittagsseminar, crazy lecture on a supposedly "well-known" problem about the Turán number of a number $$n$$ and a graph $$H$$, that is, the maximal number of edges that a graph on $$n$$ vertices can have without containing $$H$$ as a subgraph. Except that the speaker partially solved a different version of the problem (up to H's with 6 vertices) where the graph $$H$$ was ordered. Well. What a weird world theoretical CS is!
+Off to Mittagsseminar, crazy lecture on a supposedly "well-known" problem about the Turán number of a number $n$ and a graph $H$, that is, the maximal number of edges that a graph on $n$ vertices can have without containing $H$ as a subgraph. Except that the speaker partially solved a different version of the problem (up to $H's$ with 6 vertices) where the graph $H$ was ordered. Well. What a weird world theoretical CS is!
 
 Hauled to Mensa and chowed down on some weird sausage with risotto thing. While eating lunch, solved a bunch of homework problems :D then hopped on the bus to the Höngg. On the bus, solved the entire RIAI homework in my head (at least, I think I did). Felt pretty awesome, except then, some yokel got pissed at me for putting my feet up on a bus seat. It's really interesting how it's culturally acceptable to critique strangers for behaviours not affecting oneself, almost everywhere except the US.
 
