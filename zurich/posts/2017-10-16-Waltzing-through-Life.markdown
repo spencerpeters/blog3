@@ -16,4 +16,4 @@ Also I take a run across the Limmat, which is beautiful:
 
 And make myself a cheese sandwich, heck yeah!
 
-![IMG_20171016_181339](../images/IMG_20171016_181339.jpg)
+![Bartleby](../images/IMG_20171016_181339.jpg)

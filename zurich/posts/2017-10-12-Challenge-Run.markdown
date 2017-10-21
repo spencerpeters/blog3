@@ -11,6 +11,7 @@ Then it was off to the Challenge Run that the dude I'd met playing frisbee with 
     #define HIGLIGHT_MODE 1  // A week behind...
 
 Meet up with my teammates,
+
 1. Michael,
 2. Cameron, smooth CS bro and Michael's housemate,
 3. Mihaela, a feisty, elegant Bulgarian,
