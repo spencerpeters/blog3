@@ -1,0 +1,25 @@
+---
+title: Lit AF
+author: Spencer
+---
+
+Do work most of the first half of the day! Read ML lecture slides, correct Alice's essay in Culmann (English help, yay!) Type up the first two problems on the Randomized Algorithms homework (tough stuff!)
+
+Meet Aleks to work on said homework, work intensely on the 3rd problem. Aleks is poring through combinatorics papers, I'm flipping through the lecture notes; after much work, finally I get a crazy solution! Everything cancels perfectly, on one, seemingly true assumption which I have to prove later :P
+
+Because then I go to..
+
+## Swedish Folk Dancing!
+
+One of my Challenge Run friends, Sara, is teaching a Swedish Dance workshop, and I volunteer to show up early and learn the pattern for a group dance :D Catch the link to Höngg, head to the gym, meet Sara and Jenny.
+
+The workshop is really fun! It's like Irish dance, with top and bottom couples alternating moves and making arches and stuff. We also do a crazy partner dancing move involving lots of rotation and bumping into other couples, and a giant group dance called Gustav's Sköl. And we get to demonstrate the 4-couples dance! Dance with Jenny :D
+
+After that, I head back to Culmann, maybe planning to meet Jenny et al. at the Electro-Swing night! But Friday night is in full swing at Culmann. Daniel and Gideon are running a game of King's Cup. I get involved and swig a couple of beers with great alacrity. Harris gets too lit, as is the wont of introverted mathematicians, and pukes in the TV corner. His Culmann brothers and sisters rush to his aid in a communal cleanup, which Betty, who isn't even involved, spearheads for some reason. Play some great foosball, eat some of Alexei's pastry, hang out. Then Mia comes down with a bottle of whiskey and things really get rolling. Gideon and I exchange shots, then we all go out to some random bar. The walk is fun, talk with Mia and Daniel while drinking a delicious Radler (lemon beer). We end up at the following lovely establishment:
+
+![Blurry Bar](../images/IMG_20171020_232554.jpg)
+
+Where Daniel and I shell out $7 each for bottles of IPA and the conversation turns in dizzying circles.
+
+Somehow, after that, Daniel and Mia and I end up at the Electro Swing night. (Abhi and Stella return home). The scene is *much* more enjoyable at $\text{Inebriation} \geq I_{threshold_{lit}}$. We're dancing like madmen to weirdly truncated and beat-augmented versions of familiar swing songs. Mia and I end up dancing together with a surprising abandon. Somehow Daniel disappears, and the dancing goes on. After an insanity (a perceived eternity brought on by hallucinogenic craziness), Mia drags me on at least two circuits of the room to find Daniel. But the guy is gone, so Mia and I walk back to Culmann with $\text{Physical-Contact} \geq PC_{threshold_{familiarity}}. Talk about homeschooling, for some reason. Back at Culmann, part from Mia, set my alarm for the hike tomorrow morning and crash.
+
