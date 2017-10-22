@@ -11,5 +11,6 @@ executable site
                   , process
                   , pandoc
                   , containers
+                  , split
   ghc-options:      -threaded
   default-language: Haskell2010
